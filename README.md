@@ -15,9 +15,17 @@ This script allows criminals to lockpick registers inside supermarkets and other
 ✨ Features
 
 ✅ Interactive Register Robberies – Players can lockpick store registers for a chance at loot.
+
 ✅ Configurable Difficulty – Adjust the lockpicking difficulty, rewards, cooldowns, and alerts easily via the config.
+
 ✅ Immersive Roleplay – Adds depth for both criminals and police, creating organic interactions.
+
 ✅ Fully Customizable – Tweak everything to your server’s economy and playstyle.
+
 ✅ Optimized & Lightweight – Runs smoothly without performance drops.
+
 ✅ Police Integration – Optional dispatch alerts to notify law enforcement during a robbery.
+
 ✅ Progression System – Balance risk vs reward: success pays off, failure has consequences.
+
+Dependency: https://github.com/baguscodestudio/lockpick
